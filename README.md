@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @McSeun
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python fundamentals
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on game dev projects
 - 📫 How to reach me -
 
 <!---
